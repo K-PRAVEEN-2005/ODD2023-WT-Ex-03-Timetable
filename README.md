@@ -13,6 +13,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <img src="C:\Users\admin\Pictures\Screenshots\Screenshot (48).png" alt=""><br>
 <style>
     table,th,td{
@@ -59,5 +60,6 @@ Execute the program
 </table>
 
 </body>
+```
 # OUPUT
 ![Alt text](<TIME TABLE.png>)
