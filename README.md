@@ -1,4 +1,7 @@
 # Ex-04-Timetable
+name:PRAVEEN K
+reference number :23014148
+department:ARITIFICIAL INTELLIGENCE AMD DATA SCIENCE
 ## AIM
 To Write a html webpage page to display your timetable.
 
