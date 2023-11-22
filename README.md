@@ -62,4 +62,5 @@ Execute the program
 </body>
 ```
 # OUPUT
-![Alt text](<TIME TABLE.png>)
+![TIME TABLE](https://github.com/K-PRAVEEN-2005/ODD2023-WT-Ex-03-Timetable/assets/145742724/73b1bf67-7186-4126-91cb-8d772e79470f)
+
